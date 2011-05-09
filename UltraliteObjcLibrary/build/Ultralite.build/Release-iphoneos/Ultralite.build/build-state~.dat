@@ -1,0 +1,330 @@
+TUltralite
+v7
+r0
+t326570500.461947
+cCheck dependencies
+cProcessPCH++ /var/folders/83/83gzsafVFXSgXGdQ9GvELk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Ultralite_Prefix-encpsmywddvnufdbkdjodbckupoc/Ultralite_Prefix.pch.gch Ultralite_Prefix.pch normal armv6 objective-c++ com.apple.compilers.gcc.4_2
+cProcessPCH++ /var/folders/83/83gzsafVFXSgXGdQ9GvELk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Ultralite_Prefix-bauuvvkjjydvuleojajsqovovelj/Ultralite_Prefix.pch.gch Ultralite_Prefix.pch normal armv7 objective-c++ com.apple.compilers.gcc.4_2
+cCompileC build/Ultralite.build/Release-iphoneos/Ultralite.build/Objects-normal/armv6/wrapper.o "/Users/brucehill/Projects/Mobileforms/Ultralite objc library/wrapper.mm" normal armv6 objective-c++ com.apple.compilers.gcc.4_2
+cCompileC build/Ultralite.build/Release-iphoneos/Ultralite.build/Objects-normal/armv7/wrapper.o "/Users/brucehill/Projects/Mobileforms/Ultralite objc library/wrapper.mm" normal armv7 objective-c++ com.apple.compilers.gcc.4_2
+cLibtool "/Users/brucehill/Projects/Mobileforms/Ultralite objc library/build/Ultralite.build/Release-iphoneos/Ultralite.build/Objects-normal/armv6/libUltralite.a" normal armv6
+cLibtool "/Users/brucehill/Projects/Mobileforms/Ultralite objc library/build/Ultralite.build/Release-iphoneos/Ultralite.build/Objects-normal/armv7/libUltralite.a" normal armv7
+cCreateUniversalBinary "/Users/brucehill/Projects/Mobileforms/Ultralite objc library/build/Release-iphoneos/libUltralite.a" normal "armv6 armv7"
+
+N/Applications/SQLAnywhere12/sdk/include/poppk.h
+c000000004D5AC2EF000000000000085D
+t1297793775
+s2141
+
+N/Applications/SQLAnywhere12/sdk/include/pshpk1.h
+c000000004D5AC2EF00000000000008DC
+t1297793775
+s2268
+
+N/Applications/SQLAnywhere12/sdk/include/pshpk4.h
+c000000004D5AC2EF00000000000008CA
+t1297793775
+s2250
+
+N/Applications/SQLAnywhere12/sdk/include/sqlca.h
+c000000004D5AC2EF0000000000002A17
+t1297793775
+s10775
+i"sqlos.h"
+i<stddef.h>
+i"pshpk1.h"
+i"poppk.h"
+i"pshpk4.h"
+i"poppk.h"
+i"pshpk1.h"
+i"sqlcallback.h"
+i"poppk.h"
+i"sqlfuncs.h"
+i"sqlfuncs.h"
+
+N/Applications/SQLAnywhere12/sdk/include/sqlcallback.h
+c000000004D5AC2EF000000000000088E
+t1297793775
+s2190
+i"sqlos.h"
+
+N/Applications/SQLAnywhere12/sdk/include/sqlda.h
+c000000004D5AC2EF0000000000000998
+t1297793775
+s2456
+i"sqlca.h"
+i"pshpk1.h"
+i"poppk.h"
+i"pshpk4.h"
+i"poppk.h"
+
+N/Applications/SQLAnywhere12/sdk/include/sqldef.h
+c000000004D5AC2EF0000000000001BB9
+t1297793775
+s7097
+i"sqlca.h"
+i"sqlda.h"
+i"sqlerr.h"
+i"sqlstate.h"
+i"pshpk1.h"
+i"sqlhosttype.h"
+i"poppk.h"
+
+N/Applications/SQLAnywhere12/sdk/include/sqlerr.h
+c000000004D5AC2EF0000000000010187
+t1297793775
+s65927
+
+N/Applications/SQLAnywhere12/sdk/include/sqlfuncs.h
+c000000004D5AC2EF0000000000002480
+t1297793775
+s9344
+
+N/Applications/SQLAnywhere12/sdk/include/sqlhosttype.h
+c000000004D5AC2EF00000000000009A5
+t1297793775
+s2469
+
+N/Applications/SQLAnywhere12/sdk/include/sqlos.h
+c000000004D5AC2EF00000000000011FC
+t1297793775
+s4604
+
+N/Applications/SQLAnywhere12/sdk/include/sqlstate.h
+c000000004D5AC2EF0000000000010099
+t1297793775
+s65689
+
+N/Applications/SQLAnywhere12/sdk/include/sqltype.h
+c000000004D5AC2EF0000000000000B93
+t1297793775
+s2963
+i"sqlos.h"
+
+N/Applications/SQLAnywhere12/sdk/include/sserror.h
+c000000004D5AC2EF0000000000002D56
+t1297793775
+s11606
+i"sqltype.h"
+i"uldef.h"
+i<stdlib.h>
+
+N/Applications/SQLAnywhere12/sdk/include/ulcpp.h
+c000000004D5AC2EF000000000001D33E
+t1297793775
+s119614
+i"ulglobal.h"
+i<stdarg.h>
+
+N/Applications/SQLAnywhere12/sdk/include/uldef.h
+c000000004D5AC2EF0000000000000223
+t1297793775
+s547
+i<stdlib.h>
+i<windef.h>
+i<stddef.h>
+
+N/Applications/SQLAnywhere12/sdk/include/ulglobal.h
+c000000004D5AC2EF000000000000B34C
+t1297793775
+s45900
+i"uldef.h"
+i"sqldef.h"
+i"sqltype.h"
+i"sserror.h"
+i"ulprotos.h"
+i"ulsqlfuncs.h"
+
+N/Applications/SQLAnywhere12/sdk/include/ulprotos.h
+c000000004D5AC2EF0000000000013DA6
+t1297793775
+s81318
+i<stdarg.h>
+
+N/Applications/SQLAnywhere12/sdk/include/ulsqlfuncs.h
+c000000004D5AC2EF00000000000026CC
+t1297793775
+s9932
+
+N/Applications/SQLAnywhere12/ultralite/iphone/libulrt.a
+c000000004DC6BF2F0000000000378DB0
+t1304870703
+s3640752
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk
+c000000004CC7DC9E0000000000000110
+t1288166558
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC10F4700000000003E1F20
+t1287720775
+s4071200
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC10F1C0000000000001466
+t1287720732
+s5222
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/include/stdlib.h
+c000000004CB3E4B80000000000002DF5
+t1286857912
+s11765
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/lib/gcc/arm-apple-darwin10/4.2.1/include/stdarg.h
+c000000004C5A568700000000000010DD
+t1280988807
+s4317
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/lib/gcc/arm-apple-darwin10/4.2.1/include/stddef.h
+c000000004C5A56870000000000003197
+t1280988807
+s12695
+
+N/Users/brucehill/Projects/Mobileforms/Ultralite objc library/Ultralite_Prefix.pch
+c000000004D7DF55900000000000000BC
+t1300100441
+s188
+i<Foundation/Foundation.h>
+
+N/Users/brucehill/Projects/Mobileforms/Ultralite objc library/build/Release-iphoneos/libUltralite.a
+t1304877700
+s1834704
+
+N/Users/brucehill/Projects/Mobileforms/Ultralite objc library/build/Ultralite.build/Release-iphoneos/Ultralite.build/Objects-normal/armv6/Ultralite.LinkFileList
+c000000004DC6DA800000000000000093
+t1304877696
+s147
+
+N/Users/brucehill/Projects/Mobileforms/Ultralite objc library/build/Ultralite.build/Release-iphoneos/Ultralite.build/Objects-normal/armv6/libUltralite.a
+t1304877700
+s1812616
+
+N/Users/brucehill/Projects/Mobileforms/Ultralite objc library/build/Ultralite.build/Release-iphoneos/Ultralite.build/Objects-normal/armv6/wrapper.o
+t1304877700
+s20844
+
+N/Users/brucehill/Projects/Mobileforms/Ultralite objc library/build/Ultralite.build/Release-iphoneos/Ultralite.build/Objects-normal/armv7/Ultralite.LinkFileList
+c000000004DC6DA800000000000000093
+t1304877696
+s147
+
+N/Users/brucehill/Projects/Mobileforms/Ultralite objc library/build/Ultralite.build/Release-iphoneos/Ultralite.build/Objects-normal/armv7/libUltralite.a
+t1304877700
+s22040
+
+N/Users/brucehill/Projects/Mobileforms/Ultralite objc library/build/Ultralite.build/Release-iphoneos/Ultralite.build/Objects-normal/armv7/wrapper.o
+t1304877700
+s20844
+
+N/Users/brucehill/Projects/Mobileforms/Ultralite objc library/wrapper.h
+c000000004D926C300000000000000ACB
+t1301441584
+s2763
+i<Foundation/Foundation.h>
+i"ulcpp.h"
+
+N/Users/brucehill/Projects/Mobileforms/Ultralite objc library/wrapper.mm
+c000000004D94CE9C00000000000020EF
+t1301597852
+s8431
+i"wrapper.h"
+i<sstream>
+i<iomanip>
+
+N/var/folders/83/83gzsafVFXSgXGdQ9GvELk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Ultralite_Prefix-bauuvvkjjydvuleojajsqovovelj/Ultralite_Prefix.pch.gch
+t1304877698
+s6744532
+
+N/var/folders/83/83gzsafVFXSgXGdQ9GvELk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Ultralite_Prefix-encpsmywddvnufdbkdjodbckupoc/Ultralite_Prefix.pch.gch
+t1304877698
+s6285780
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies326570496#326570496#0(0"0(0#1#0"8612763520#0"0#
+
+CCompileC build/Ultralite.build/Release-iphoneos/Ultralite.build/Objects-normal/armv6/wrapper.o "/Users/brucehill/Projects/Mobileforms/Ultralite objc library/wrapper.mm" normal armv6 objective-c++ com.apple.compilers.gcc.4_2
+s326570498.623662
+e326570500.116673
+r1
+xCompileC
+xbuild/Ultralite.build/Release-iphoneos/Ultralite.build/Objects-normal/armv6/wrapper.o
+x/Users/brucehill/Projects/Mobileforms/Ultralite objc library/wrapper.mm
+xnormal
+xarmv6
+xobjective-c++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@79"Compile /Users/brucehill/Projects/Mobileforms/Ultralite objc library/wrapper.mm326570498#326570500#0(0"0(0#0#71"/Users/brucehill/Projects/Mobileforms/Ultralite objc library/wrapper.mm8613437984#2086"    cd "/Users/brucehill/Projects/Mobileforms/Ultralite objc library"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c++ -arch armv6 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -mno-thumb -miphoneos-version-min=4.2 -iquote "/Users/brucehill/Projects/Mobileforms/Ultralite objc library/build/Ultralite.build/Release-iphoneos/Ultralite.build/Ultralite-generated-files.hmap" "-I/Users/brucehill/Projects/Mobileforms/Ultralite objc library/build/Ultralite.build/Release-iphoneos/Ultralite.build/Ultralite-own-target-headers.hmap" "-I/Users/brucehill/Projects/Mobileforms/Ultralite objc library/build/Ultralite.build/Release-iphoneos/Ultralite.build/Ultralite-all-target-headers.hmap" -iquote "/Users/brucehill/Projects/Mobileforms/Ultralite objc library/build/Ultralite.build/Release-iphoneos/Ultralite.build/Ultralite-project-headers.hmap" "-F/Users/brucehill/Projects/Mobileforms/Ultralite objc library/build/Release-iphoneos" -iquote/Applications/SQLAnywhere12/sdk/include "-I/Users/brucehill/Projects/Mobileforms/Ultralite objc library/build/Release-iphoneos/include" "-I/Users/brucehill/Projects/Mobileforms/Ultralite objc library/build/Ultralite.build/Release-iphoneos/Ultralite.build/DerivedSources/armv6" "-I/Users/brucehill/Projects/Mobileforms/Ultralite objc library/build/Ultralite.build/Release-iphoneos/Ultralite.build/DerivedSources" -include /var/folders/83/83gzsafVFXSgXGdQ9GvELk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Ultralite_Prefix-encpsmywddvnufdbkdjodbckupoc/Ultralite_Prefix.pch -c "/Users/brucehill/Projects/Mobileforms/Ultralite objc library/wrapper.mm" -o "/Users/brucehill/Projects/Mobileforms/Ultralite objc library/build/Ultralite.build/Release-iphoneos/Ultralite.build/Objects-normal/armv6/wrapper.o"0#
+
+CCompileC build/Ultralite.build/Release-iphoneos/Ultralite.build/Objects-normal/armv7/wrapper.o "/Users/brucehill/Projects/Mobileforms/Ultralite objc library/wrapper.mm" normal armv7 objective-c++ com.apple.compilers.gcc.4_2
+s326570498.625015
+e326570500.200582
+r1
+xCompileC
+xbuild/Ultralite.build/Release-iphoneos/Ultralite.build/Objects-normal/armv7/wrapper.o
+x/Users/brucehill/Projects/Mobileforms/Ultralite objc library/wrapper.mm
+xnormal
+xarmv7
+xobjective-c++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@79"Compile /Users/brucehill/Projects/Mobileforms/Ultralite objc library/wrapper.mm326570498#326570500#0(0"0(0#0#71"/Users/brucehill/Projects/Mobileforms/Ultralite objc library/wrapper.mm8612176832#2086"    cd "/Users/brucehill/Projects/Mobileforms/Ultralite objc library"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c++ -arch armv7 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -mno-thumb -miphoneos-version-min=4.2 -iquote "/Users/brucehill/Projects/Mobileforms/Ultralite objc library/build/Ultralite.build/Release-iphoneos/Ultralite.build/Ultralite-generated-files.hmap" "-I/Users/brucehill/Projects/Mobileforms/Ultralite objc library/build/Ultralite.build/Release-iphoneos/Ultralite.build/Ultralite-own-target-headers.hmap" "-I/Users/brucehill/Projects/Mobileforms/Ultralite objc library/build/Ultralite.build/Release-iphoneos/Ultralite.build/Ultralite-all-target-headers.hmap" -iquote "/Users/brucehill/Projects/Mobileforms/Ultralite objc library/build/Ultralite.build/Release-iphoneos/Ultralite.build/Ultralite-project-headers.hmap" "-F/Users/brucehill/Projects/Mobileforms/Ultralite objc library/build/Release-iphoneos" -iquote/Applications/SQLAnywhere12/sdk/include "-I/Users/brucehill/Projects/Mobileforms/Ultralite objc library/build/Release-iphoneos/include" "-I/Users/brucehill/Projects/Mobileforms/Ultralite objc library/build/Ultralite.build/Release-iphoneos/Ultralite.build/DerivedSources/armv7" "-I/Users/brucehill/Projects/Mobileforms/Ultralite objc library/build/Ultralite.build/Release-iphoneos/Ultralite.build/DerivedSources" -include /var/folders/83/83gzsafVFXSgXGdQ9GvELk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Ultralite_Prefix-bauuvvkjjydvuleojajsqovovelj/Ultralite_Prefix.pch -c "/Users/brucehill/Projects/Mobileforms/Ultralite objc library/wrapper.mm" -o "/Users/brucehill/Projects/Mobileforms/Ultralite objc library/build/Ultralite.build/Release-iphoneos/Ultralite.build/Objects-normal/armv7/wrapper.o"0#
+
+CCreateUniversalBinary "/Users/brucehill/Projects/Mobileforms/Ultralite objc library/build/Release-iphoneos/libUltralite.a" normal "armv6 armv7"
+s326570500.391940
+e326570500.461898
+r1
+xCreateUniversalBinary
+x/Users/brucehill/Projects/Mobileforms/Ultralite objc library/build/Release-iphoneos/libUltralite.a
+xnormal
+xarmv6 armv7
+lSLF07#2@80"CreateUniversalBinary build/Release-iphoneos/libUltralite.a normal "armv6 armv7"326570500#326570500#0(0"0(0#0#72"/Users/brucehill/Projects/Mobileforms/Ultralite objc library/armv6 armv78606107936#683"    cd "/Users/brucehill/Projects/Mobileforms/Ultralite objc library"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/libtool -static "/Users/brucehill/Projects/Mobileforms/Ultralite objc library/build/Ultralite.build/Release-iphoneos/Ultralite.build/Objects-normal/armv6/libUltralite.a" "/Users/brucehill/Projects/Mobileforms/Ultralite objc library/build/Ultralite.build/Release-iphoneos/Ultralite.build/Objects-normal/armv7/libUltralite.a" -o "/Users/brucehill/Projects/Mobileforms/Ultralite objc library/build/Release-iphoneos/libUltralite.a"0#
+
+CLibtool "/Users/brucehill/Projects/Mobileforms/Ultralite objc library/build/Ultralite.build/Release-iphoneos/Ultralite.build/Objects-normal/armv6/libUltralite.a" normal armv6
+s326570500.116813
+e326570500.391828
+r1
+xLibtool
+x/Users/brucehill/Projects/Mobileforms/Ultralite objc library/build/Ultralite.build/Release-iphoneos/Ultralite.build/Objects-normal/armv6/libUltralite.a
+xnormal
+xarmv6
+o/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC 
+lSLF07#2@111"Libtool build/Ultralite.build/Release-iphoneos/Ultralite.build/Objects-normal/armv6/libUltralite.a normal armv6326570500#326570500#0(129"/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC 0(0#0#0"8610721408#911"    cd "/Users/brucehill/Projects/Mobileforms/Ultralite objc library"    setenv IPHONEOS_DEPLOYMENT_TARGET 4.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/libtool -static -arch_only armv6 -syslibroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk "-L/Users/brucehill/Projects/Mobileforms/Ultralite objc library/build/Release-iphoneos" -L/Applications/SQLAnywhere12/ultralite/iphone -filelist "/Users/brucehill/Projects/Mobileforms/Ultralite objc library/build/Ultralite.build/Release-iphoneos/Ultralite.build/Objects-normal/armv6/Ultralite.LinkFileList" -ObjC -framework Foundation -lulrt -o "/Users/brucehill/Projects/Mobileforms/Ultralite objc library/build/Ultralite.build/Release-iphoneos/Ultralite.build/Objects-normal/armv6/libUltralite.a"0#
+
+CLibtool "/Users/brucehill/Projects/Mobileforms/Ultralite objc library/build/Ultralite.build/Release-iphoneos/Ultralite.build/Objects-normal/armv7/libUltralite.a" normal armv7
+s326570500.200707
+e326570500.302392
+r1
+xLibtool
+x/Users/brucehill/Projects/Mobileforms/Ultralite objc library/build/Ultralite.build/Release-iphoneos/Ultralite.build/Objects-normal/armv7/libUltralite.a
+xnormal
+xarmv7
+o/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC 
+lSLF07#2@111"Libtool build/Ultralite.build/Release-iphoneos/Ultralite.build/Objects-normal/armv7/libUltralite.a normal armv7326570500#326570500#0(129"/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC 0(0#0#0"8610131904#911"    cd "/Users/brucehill/Projects/Mobileforms/Ultralite objc library"    setenv IPHONEOS_DEPLOYMENT_TARGET 4.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/libtool -static -arch_only armv7 -syslibroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk "-L/Users/brucehill/Projects/Mobileforms/Ultralite objc library/build/Release-iphoneos" -L/Applications/SQLAnywhere12/ultralite/iphone -filelist "/Users/brucehill/Projects/Mobileforms/Ultralite objc library/build/Ultralite.build/Release-iphoneos/Ultralite.build/Objects-normal/armv7/Ultralite.LinkFileList" -ObjC -framework Foundation -lulrt -o "/Users/brucehill/Projects/Mobileforms/Ultralite objc library/build/Ultralite.build/Release-iphoneos/Ultralite.build/Objects-normal/armv7/libUltralite.a"0#
+
+CProcessPCH++ /var/folders/83/83gzsafVFXSgXGdQ9GvELk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Ultralite_Prefix-bauuvvkjjydvuleojajsqovovelj/Ultralite_Prefix.pch.gch Ultralite_Prefix.pch normal armv7 objective-c++ com.apple.compilers.gcc.4_2
+s326570496.625633
+e326570498.623520
+r1
+xProcessPCH++
+x/var/folders/83/83gzsafVFXSgXGdQ9GvELk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Ultralite_Prefix-bauuvvkjjydvuleojajsqovovelj/Ultralite_Prefix.pch.gch
+xUltralite_Prefix.pch
+xnormal
+xarmv7
+xobjective-c++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@31"Precompile Ultralite_Prefix.pch326570496#326570498#0(0"0(0#0#81"/Users/brucehill/Projects/Mobileforms/Ultralite objc library/Ultralite_Prefix.pch8611055648#1949"    cd "/Users/brucehill/Projects/Mobileforms/Ultralite objc library"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c++-header -arch armv7 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -mno-thumb -miphoneos-version-min=4.2 -iquote "/Users/brucehill/Projects/Mobileforms/Ultralite objc library/build/Ultralite.build/Release-iphoneos/Ultralite.build/Ultralite-generated-files.hmap" "-I/Users/brucehill/Projects/Mobileforms/Ultralite objc library/build/Ultralite.build/Release-iphoneos/Ultralite.build/Ultralite-own-target-headers.hmap" "-I/Users/brucehill/Projects/Mobileforms/Ultralite objc library/build/Ultralite.build/Release-iphoneos/Ultralite.build/Ultralite-all-target-headers.hmap" -iquote "/Users/brucehill/Projects/Mobileforms/Ultralite objc library/build/Ultralite.build/Release-iphoneos/Ultralite.build/Ultralite-project-headers.hmap" "-F/Users/brucehill/Projects/Mobileforms/Ultralite objc library/build/Release-iphoneos" -iquote/Applications/SQLAnywhere12/sdk/include "-I/Users/brucehill/Projects/Mobileforms/Ultralite objc library/build/Release-iphoneos/include" "-I/Users/brucehill/Projects/Mobileforms/Ultralite objc library/build/Ultralite.build/Release-iphoneos/Ultralite.build/DerivedSources/armv7" "-I/Users/brucehill/Projects/Mobileforms/Ultralite objc library/build/Ultralite.build/Release-iphoneos/Ultralite.build/DerivedSources" -c "/Users/brucehill/Projects/Mobileforms/Ultralite objc library/Ultralite_Prefix.pch" -o /var/folders/83/83gzsafVFXSgXGdQ9GvELk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Ultralite_Prefix-bauuvvkjjydvuleojajsqovovelj/Ultralite_Prefix.pch.gch0#
+
+CProcessPCH++ /var/folders/83/83gzsafVFXSgXGdQ9GvELk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Ultralite_Prefix-encpsmywddvnufdbkdjodbckupoc/Ultralite_Prefix.pch.gch Ultralite_Prefix.pch normal armv6 objective-c++ com.apple.compilers.gcc.4_2
+s326570496.624470
+e326570498.469973
+r1
+xProcessPCH++
+x/var/folders/83/83gzsafVFXSgXGdQ9GvELk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Ultralite_Prefix-encpsmywddvnufdbkdjodbckupoc/Ultralite_Prefix.pch.gch
+xUltralite_Prefix.pch
+xnormal
+xarmv6
+xobjective-c++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@31"Precompile Ultralite_Prefix.pch326570496#326570498#0(0"0(0#0#81"/Users/brucehill/Projects/Mobileforms/Ultralite objc library/Ultralite_Prefix.pch8611191392#1949"    cd "/Users/brucehill/Projects/Mobileforms/Ultralite objc library"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c++-header -arch armv6 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -mno-thumb -miphoneos-version-min=4.2 -iquote "/Users/brucehill/Projects/Mobileforms/Ultralite objc library/build/Ultralite.build/Release-iphoneos/Ultralite.build/Ultralite-generated-files.hmap" "-I/Users/brucehill/Projects/Mobileforms/Ultralite objc library/build/Ultralite.build/Release-iphoneos/Ultralite.build/Ultralite-own-target-headers.hmap" "-I/Users/brucehill/Projects/Mobileforms/Ultralite objc library/build/Ultralite.build/Release-iphoneos/Ultralite.build/Ultralite-all-target-headers.hmap" -iquote "/Users/brucehill/Projects/Mobileforms/Ultralite objc library/build/Ultralite.build/Release-iphoneos/Ultralite.build/Ultralite-project-headers.hmap" "-F/Users/brucehill/Projects/Mobileforms/Ultralite objc library/build/Release-iphoneos" -iquote/Applications/SQLAnywhere12/sdk/include "-I/Users/brucehill/Projects/Mobileforms/Ultralite objc library/build/Release-iphoneos/include" "-I/Users/brucehill/Projects/Mobileforms/Ultralite objc library/build/Ultralite.build/Release-iphoneos/Ultralite.build/DerivedSources/armv6" "-I/Users/brucehill/Projects/Mobileforms/Ultralite objc library/build/Ultralite.build/Release-iphoneos/Ultralite.build/DerivedSources" -c "/Users/brucehill/Projects/Mobileforms/Ultralite objc library/Ultralite_Prefix.pch" -o /var/folders/83/83gzsafVFXSgXGdQ9GvELk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Ultralite_Prefix-encpsmywddvnufdbkdjodbckupoc/Ultralite_Prefix.pch.gch0#
+
